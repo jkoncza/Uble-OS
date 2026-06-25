@@ -48,3 +48,6 @@ Show off your projects, modifications, and experiments using #UbleOS so others c
 Thanks for helping.
 
 This will help make improvements for helping improve Uble OS. Every contribution helps make the project better for everyone!
+
+# When Contributing Please Only Update the latest Version
+# The latest version(v10.8) can be found in the folder Uble-10/Uble-10.8/
