@@ -49,5 +49,7 @@ Thanks for helping.
 
 This will help make improvements for helping improve Uble OS. Every contribution helps make the project better for everyone!
 
-# When Contributing Please Only Update the latest Version
-# The latest version can be found in the folder Uble-10/Uble-10.8/
+We have stopped modifying Uble 10.8 because of some architectural flaws in it so we recommend using Uble Neo for projects and modifying now due to it being more modern and its better overall structure.
+
+# When Contributing Please Only Update the latest Version which is Neo(recommended) or 10.8
+# The latest version(Neo or 10.8) can be found in the folder Uble-Neo/ or Uble-10/Uble-10.8/
