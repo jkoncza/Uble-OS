@@ -48,7 +48,7 @@ Show off your projects, modifications, and experiments using #UbleOS so others c
 Thanks for helping.
 
 This will help make improvements for helping improve Uble OS. Every contribution helps make the project better for everyone!
-
+There are 26 versions of Uble with 11 major versions which include 1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.x, 9.x, 10.x, and Neo.
 We have stopped modifying Uble 10.8 because of some architectural flaws in it so we recommend using Uble Neo for projects and modifying now due to it being more modern and its better overall structure.
 
 # When Contributing Please Only Update the latest Version which is Neo(recommended) or 10.8
