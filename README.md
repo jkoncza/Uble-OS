@@ -1,5 +1,5 @@
 # Uble OS
-Here are the versions of my Operating Systems called Uble and it is a x86 32-Bit BIOS OS, it needs work and edits so feel free to download it and make edits to it and this is a project that anyone can explore, learn from, modify, and improve.
+Here are the versions of the Operating System called Uble. It is a x86 32-Bit BIOS OS except for Uble Neo which is 64 Bit and uses a Limine UEFI loader. it needs work and edits so feel free to download it and make edits to it and this is a project that anyone can explore, learn from, modify, and improve.
 
 *License & Credit
 
@@ -50,4 +50,4 @@ Thanks for helping.
 This will help make improvements for helping improve Uble OS. Every contribution helps make the project better for everyone!
 
 # When Contributing Please Only Update the latest Version
-# The latest version(v10.8) can be found in the folder Uble-10/Uble-10.8/
+# The latest version can be found in the folder Uble-10/Uble-10.8/
