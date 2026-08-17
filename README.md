@@ -52,4 +52,4 @@ This will help make improvements for helping improve Uble OS. Every contribution
 We have stopped modifying Uble 10.8 because of some architectural flaws in it so we recommend using Uble Neo versions for projects and modifying now due to it being more modern and its better overall structure.
 
 # When Contributing Please Only Update the latest Version which is the Neo series(recommended) or 10.8
-# The latest version of Neo are recommended to be used but Neo 2.0 still needs work on the networking end.
+# The latest versions of Neo are recommended to be used but Neo 2.0 still needs work on the networking end.
